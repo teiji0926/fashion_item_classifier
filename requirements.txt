@@ -1,0 +1,5 @@
+streamlit==1.81
+torch==1.12.1
+torchvision==0.13.1
+Pillow
+matplotlib
